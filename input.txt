@@ -1,0 +1,3 @@
+    "Natural language processing is a branch of artificial intelligence",
+    "Natural language processing helps computers understand human language",
+    "Machine learning and NLP are closely related fields"
